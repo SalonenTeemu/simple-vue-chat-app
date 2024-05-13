@@ -1,6 +1,6 @@
 # Vue Chat Application
 
-Hi and welcome! This repository contains a very simple chat application created with the Vue 3 Composition API as an independent course exercise.
+This repository contains a very simple chat application created with the Vue 3 Composition API as an independent course exercise.
 
 ## Running the app
 
